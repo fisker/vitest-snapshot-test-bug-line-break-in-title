@@ -1,0 +1,6 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`CR 1`] = `1`;
+
+exports[`CRLF
+ 1`] = `2`;

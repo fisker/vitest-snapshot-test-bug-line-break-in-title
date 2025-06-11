@@ -7,7 +7,7 @@ Step to reproduce
 
 ```sh
 yarn
-yarn test
+yarn vitest
 ```
 
 You'll get

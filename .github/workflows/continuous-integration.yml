@@ -24,5 +24,8 @@ jobs:
       - name: Install Dependencies
         run: yarn
 
-      - name: Run Test
-        run: yarn test
+      - name: Run Jest
+        run: yarn jest
+
+      - name: Run Vitest
+        run: yarn vitest
